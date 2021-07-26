@@ -40,7 +40,8 @@ Before doing this assignment, you should already know the following things:
 
 1. Write a function which input a string(char array) and two numbers (let say a and b). The function should reverse all the item between and including the index a and b. And it returns a bool indecates if the input is valid. (You can define helper functions if needed)  
    For example, input is "robomaster2022", a=0 b=5, the returned bool is true and the string will be "amoborster2022". If the input is a=5 b=0 then it is not valid, return false and the string remain the same.
-2. Calculate the factorial **using recursion**. (may need to change to print binary tree)
+2. Write a program that can output the first n numbers of Fibonacci sequence. **You are required to use recursion in your code.**  
+   For example, n=10, the first 5 numbers of Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
 
 We have provided the skeleton code ([exer3_1.cpp](./exer3_1.cpp) and [exer3_2.cpp](./exer3_2.cpp)), you only need to complete the calculation part.
 For compiling and running the code, using the following commend lines:

@@ -8,4 +8,4 @@
 - [ ] Embedded Assignment
 - [ ] Grading Scheme
 - [ ] README and description
-- [ ] Change 3-exer2
+- [x] Change 3-exer2
