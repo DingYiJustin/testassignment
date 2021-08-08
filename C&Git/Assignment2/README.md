@@ -40,7 +40,10 @@ while (cin.get(ch)) {
 }
 ```
 
-## Programing Exercise
+## Programming Exercise
+
+## Additional Exercise
+### NO BONUS POINTS, just for fun :)
 
 ### The Rod Cutting Problem description  
 Given a rod of length $n$ and prices $p_i$ for $i = 1, ..., 𝑛$, where $p_i$ is the price of a rod of length $i$. Find a way to cut the rod to maximize total revenue.  
@@ -70,16 +73,16 @@ Then, how to find $r_i$ for all $i$ in $\{0,1,...,n\}$? Since $r_n$ can be drive
 If you need a more detailed explanation, please read [this document](./reference_comp3711_dp1.pdf) from COMP3711 **(pseudo code inside :o)**.
 
 ### Your Mission
-Now you know how to solve the problem, please implement the code in [exer2.cpp](./exer2.cpp) such that the program will output the maximum revenue.
+Now you know how to solve the problem, please implement the code in [exer2_2.cpp](./exer2_2.cpp) such that the program will output the maximum revenue.
 
-We have provided the skeleton code [exer2.cpp](./exer2.cpp), you only need to complete the missing part, input and output is already done.
+We have provided the skeleton code [exer2_2.cpp](./exer2_2.cpp), you only need to complete the missing part, input and output is already done.
 For compiling and running the code, using the following commend lines:
 
 ```bash
 # compile
-g++ -o exer_run2 exer2.cpp
+g++ -o exer_run2_2 exer2_2.cpp
 # run
-./exer_run2
+./exer_run2_2
 ```
 
 If you want to know more about compiling with g++, click [here](https://courses.cs.washington.edu/courses/cse373/99au/unix/g++.html)

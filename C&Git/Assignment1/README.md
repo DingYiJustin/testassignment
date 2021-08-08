@@ -11,11 +11,12 @@ Before doing this assignment, you should already know the following things:
 
 (You should write the answers to the following questions in the same file)
 
-1. Please write the values of the following three variables and briefly explain the reasons (Why the value is not the same as the assigned value)
+1. Please write down the upper and lower bound of the following types:
 
-   - **uint8_t** a = 260
-   - **int8_t** b = 130
-   - **int8_t** c = -130  
+   - For example: **uint16_t**: 0~65535
+   - **uint8_t** 
+   - **int8_t** 
+   - **int8_t**   
      (Please read [this page](https://stackoverflow.com/questions/5054979/why-is-uint-8-etc-used-in-c-c) if you do not know uint8_t and int8_t)
 
 2. What is the difference between the following values (What is their default type in C++)  
